@@ -1,4 +1,5 @@
 <?php
+require_once( dirname(__FILE__) . "/components/header.php");
 require_once(dirname(__FILE__) . "/components/navbar.php");
 ?>
 
