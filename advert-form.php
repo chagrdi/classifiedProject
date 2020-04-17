@@ -25,7 +25,7 @@ require_once(dirname(__FILE__) . "/components/navbar.php");
                         <option value="paris">Paris</option>
                     </select>
                 </div>
-                <input type="submit" value="Créer mon annonce" class="btn btn-primary">
+                <input type="submit" value="Créer mon annonce" class="btn btn-success">
             </form>
         </div>
     </div>
