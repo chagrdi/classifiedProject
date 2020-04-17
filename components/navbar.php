@@ -14,9 +14,9 @@
         <a class="nav-link" href="advert-list.php">Mes annonces</a>
       </li>
       <li class="nav-item">
-        <a class="btn btn-primary" href="advert-form.php">Ajouter une annonce</a>
+        <a class="btn btn-info" href="advert-form.php">Ajouter une annonce</a>
       </li>
     </ul>
-    <a class="btn-warning" href="functions/disconnect.php">Déconnexion</a>
+    <a class="btn btn-warning" href="functions/disconnect.php">Deconnexion</a>
   </div>
 </nav>
